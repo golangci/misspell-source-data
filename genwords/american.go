@@ -1089,8 +1089,6 @@ marginalise->marginalize
 marginalised->marginalized
 marginalises->marginalizes
 marginalising->marginalizing
-marshalled->marshaled
-marshalling->marshaling
 marvelled->marveled
 marvelling->marveling
 marvellous->marvelous
